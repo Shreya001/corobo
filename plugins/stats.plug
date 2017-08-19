@@ -1,0 +1,10 @@
+[Core]
+name = Stats
+module = stats
+DependsOn = LabHub
+
+[Documentation]
+description = Various github/gitlab issue, PR related stats
+
+[Python]
+version = 3
